@@ -1,0 +1,6 @@
+Pin: 25 Attendance: P
+Pin: 45 Attendance: P
+Pin: 45 Attendance: P
+Pin: 45 Attendance: P
+Pin: 45 Attendance: P
+Pin: 45 Attendance: A
